@@ -4,7 +4,7 @@ A package that contains the entities related to Library Management App and a Dat
 **Requirements**:  *ios 16+ / swift 5.7+ / XCode 14+*   
 
 ### Package URL : 
-[BookStoreCore](https://zrepository.zoho.com/zohocorp/user/Sangavi/BookStoreCore.git)
+[BookStoreCore](https://github.com/Sangavi-22/BookStoreiOSCore.git)
 
 ###Installation: 
 ### Swift Package Manager:  
